@@ -1,0 +1,20 @@
+# /BW_PUBLISH/20210415_tradShuffle/ #
+#################################################
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# PROJECT FILES I DON'T WANT ON GIT #
+#####################################
+VIDEO/
+20210411_tradShuffle\ Project/Samples/Imported/
+20210411_tradShuffle\ Project/Backup/
+
+
