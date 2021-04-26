@@ -1,5 +1,7 @@
 # 20210415_tradShuffle
 
+[github](https://github.com/lg3bass/20210415_tradShuffle)
+
 Tags:
 
 #maxmsp #maxmspjitter #madewithjitter #creativecoding #generativeart #generativevisuals #abletonlive #max4live #video #art #glsl #boogie-woogie
